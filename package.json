@@ -1,0 +1,27 @@
+{
+  "name": "ajc-dev_ts-cli",
+  "version": "1.0.0",
+  "description": "CLI written in TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "typecheck": "tsc --noemit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aubreyjcook/ajc-dev_ts-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aubreyjcook/ajc-dev_ts-cli/issues"
+  },
+  "homepage": "https://github.com/aubreyjcook/ajc-dev_ts-cli#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}

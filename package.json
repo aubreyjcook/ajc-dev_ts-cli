@@ -16,12 +16,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/aubreyjcook/ajc-dev_ts-cli/issues"
   },
   "homepage": "https://github.com/aubreyjcook/ajc-dev_ts-cli#readme",
   "devDependencies": {
+    "@types/node": "^26.6.7",
     "typescript": "^7.0.2"
   }
 }
